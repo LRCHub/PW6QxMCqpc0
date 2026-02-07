@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "SAIREN",
+  "base_artist": "Reol",
+  "createdAt": "2026-02-07T18:41:22.156251Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SAIREN",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/01_SAIREN_Reol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SAIREN",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/02_SAIREN_Reol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SAIREN",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/03_SAIREN_Reol.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Siren (サイレン Sairen)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_Siren_(サイレン_Sairen)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sairen",
+      "artist": "Unblock",
+      "has_synced": true,
+      "path": "select/05_Sairen_Unblock.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SAIREN *Siren*",
+      "artist": "平沢進",
+      "has_synced": true,
+      "path": "select/06_SAIREN__Siren_平沢進.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sairen/Siren",
+      "artist": "Susumu Hirasawa",
+      "has_synced": false,
+      "path": "select/07_Sairen_Siren_Susumu_Hirasawa.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Siren(sairen)",
+      "artist": "Susumu Hirasawa",
+      "has_synced": true,
+      "path": "select/08_Siren(sairen)_Susumu_Hirasawa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SAIREN",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/09_SAIREN_Reol.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "[MV] Reol - 'SAIREN' Music Video",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/10_[MV]_Reol_-_'SAIREN'_Music_Video_Reol.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SAIREN",
+      "artist": "Asian Kung-Fu Generation",
+      "has_synced": true,
+      "path": "select/11_SAIREN_Asian_Kung-Fu_Generation.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SAIREN",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/12_SAIREN_Reol.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SAIREN*Siren*",
+      "artist": "Susumu Hirasawa",
+      "has_synced": false,
+      "path": "select/13_SAIREN_Siren_Susumu_Hirasawa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAIREN",
+      "artist": "Reol",
+      "has_synced": false,
+      "path": "select/pl_01_SAIREN_Reol.txt"
+    }
+  ]
+}
