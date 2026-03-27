@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "SAIREN",
   "base_artist": "Reol",
-  "createdAt": "2026-02-07T18:41:22.156251Z",
+  "createdAt": "2026-03-27T03:23:44.414108Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,15 @@
       "artist": "Reol",
       "has_synced": false,
       "path": "select/pl_01_SAIREN_Reol.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "SAIREN",
+      "artist": "Reol",
+      "has_synced": true,
+      "path": "select/localdb_01_SAIREN_Reol.lrc",
+      "repo_name": "PW6QxMCqpc0"
     }
   ]
 }
